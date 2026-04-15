@@ -1,7 +1,7 @@
 https://www.work24.go.kr/hr/a/a/3100/selectTracseDetl.do?tracseId=AIG20253001128848&tracseTme=1&cstmConsTme=&crseTracseSe=C0061&trainstCstmrId=500038884832&tracseReqstsCd=&focusId=
 
 직종명: AI 데이터 사이언티스트
-과정명: (산대특)_데이터기반 스마트팜 AI예측서비스 개발 AI사이언티스트_육성
+과정명: (산대특)_스마트팜 예측서비스 AI사이언티스트_육성
 
 
 훈련목표:
